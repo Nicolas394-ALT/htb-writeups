@@ -44,7 +44,8 @@ Got immediate root access.
 
 ## Flag
 
-
+cat /root/flag.txt
+b40abdfe23665f766f9c61ecba8a4c19
 
 ---
 
